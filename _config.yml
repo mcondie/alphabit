@@ -1,4 +1,7 @@
 name: Alpha Bit Soup
+description: Programming and Business in One Delightful Blend
+url: http://www.alphabitsoup.net
+
 pygments: true
 
 exclude: ["vendor"]
