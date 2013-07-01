@@ -1,2 +1,4 @@
-name: Your New Jekyll Site
+name: Alpha Bit Soup
 pygments: true
+
+exclude: ["vendor"]
