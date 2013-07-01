@@ -2,3 +2,5 @@ name: Alpha Bit Soup
 pygments: true
 
 exclude: ["vendor"]
+
+permalink: /:year/:month/:day/:title/
