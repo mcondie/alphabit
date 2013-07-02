@@ -5,7 +5,7 @@ date:   2013-07-01 14:30:00
 categories: web
 ---
 
-Google is shutting down Reader next week, and this made me think, why is Microsoft still making a browser? 
+Google is shutting down Reader this week, and this made me think, why is Microsoft still making a browser? 
 
 Google is shutting Reader down because they don’t make any (or at least enough) money, because it costs them money to maintain it, and it doesn’t give them any other strategic advantage. I’m sure there are other reasons as well, but the move is entirely justified by those reasons. 
 
