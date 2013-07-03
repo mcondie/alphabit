@@ -1,6 +1,6 @@
 ---
 published: true
-layout: default
+layout: post
 title:  "Go Web Application - Forms"
 date:   2013-07-03 19:40:00
 categories: web, tutorials
