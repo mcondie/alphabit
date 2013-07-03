@@ -6,10 +6,12 @@ title: Alpha Bit Soup
 
 <ul class="posts">
     {% for post in site.posts %}
+    <div class="postlist">
       <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-      <div>{{ post.date | date_to_string }}</div> 
+      <div class="date">{{ post.date | date_to_string }}</div> 
       <div class="post">
         {{post.content}}
       </div>
+    </div>
     {% endfor %}
   </ul>
