@@ -8,5 +8,24 @@ One of the best features of go is that the components needed to build an entire 
 ##Creating the server
 
 <code>
+package main
+import(
+  "net/http"
+  "log"
+  "io"
+)
+
+func main(){
+  http.HandleFunc("/home", home_index)
+  err:= http.ListenAndServe("localhost:8080", nil)
+  if err != nil{
+    log.Fatal("ListenAndServe: ", err.Error())
+  }
+}
+
+func home_index(w http.ResponseWriter, request *http.Request){
+  w.Header().Set("Content-Type", "text/html")
+  io.WriteString(w, "hello world")
+}
 </code>
 
