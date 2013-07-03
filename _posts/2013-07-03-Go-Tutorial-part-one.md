@@ -1,6 +1,6 @@
 ---
 published: true
-layout: default
+layout: post
 title:  "Go Web Application Tutorial"
 date:   2013-07-03 19:30:00
 categories: web

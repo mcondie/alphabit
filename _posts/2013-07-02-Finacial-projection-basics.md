@@ -1,6 +1,6 @@
 ---
 published: false
-layout: default
+layout: post
 title:  "Financial Projections Tutorial"
 date:   2013-07-01 14:30:00
 categories: web
