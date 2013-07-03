@@ -10,7 +10,7 @@ One of the best features of Go is that the components needed to build an entire 
 
 ####Creating the server
 
-First import the packages 'net/http', 'log', and 'io'. 'net/http' is the built in Go http library, including a full http server. 'log' is self explanitory. We'll use 'io' to write text to the http request. 
+First import the packages 'net/http', 'log', and 'io'. 'net/http' is the built in Go http library, including a full http server. 'log' is self explanatory. We'll use 'io' to write text to the http request. 
 
     package main
     import(
