@@ -1,8 +1,7 @@
 ---
 published: true
 layout: post
-date: 
-  "2013-09-27 3:11PM": null
+date: {2013-09-27 3:11PM}
 categories: "hosting, sysadmin"
 ---
 
