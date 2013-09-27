@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: {2013-09-27}
-categories: "hosting, sysadmin"
+categories: hosting, sysadmin
 ---
 
 I've changed the hosting setup for this site. The change was precipitated by my recent employment changes, and more particularly having to re-key my online accounts with new ssh keys for a new laptop. 
