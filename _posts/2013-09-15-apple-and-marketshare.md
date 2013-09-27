@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: {2013-09-25}
 categories: apple
 ---
 
