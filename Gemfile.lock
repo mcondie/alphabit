@@ -9,7 +9,7 @@ GEM
       highline (~> 1.6.11)
     daemons (1.1.9)
     directory_watcher (1.4.1)
-    eventmachine (1.0.3)
+    eventmachine (1.0.4)
     fast-stemmer (1.0.2)
     highline (1.6.19)
     jekyll (1.0.3)
